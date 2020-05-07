@@ -1,2 +1,2 @@
-# snsyndrome.github.io
+# SadNippleSyndrome.github.io
 SNS 

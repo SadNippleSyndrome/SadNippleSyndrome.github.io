@@ -23,6 +23,7 @@
 
 	h1,h2,h3,h4,h5,h6
 	{
+		text-transform: none;
 		/* text-transform: uppercase; */
 		font-weight: bold;
 	}
@@ -245,7 +246,8 @@
 		ul.style .posted {
 			padding: 0em 0em 1em 0em;
 			letter-spacing: 1px;
-			text-transform: uppercase;
+			text-transform: none;
+			/* text-transform: uppercase; */
 			font-size: 8pt;
 			color: #A2A2A2;
 		}
@@ -267,7 +269,7 @@
 			background: #e95d3c;
 			border-radius: 40px;
 			text-decoration: none;
-			text-transform: uppercase;
+			text-transform: none;
 			font-size: 1.1em;
 			color: #FFF;
 			-moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
